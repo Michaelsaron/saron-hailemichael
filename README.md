@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michaelsaron
+- 👋 Hi, I’m @saron hailemichael
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering at jimma university 
 - 💞️ I’m looking to collaborate on ...
